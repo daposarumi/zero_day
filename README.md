@@ -1,7 +1,4 @@
-Vagrant Project
+Command uname
 
-This is one of the ALX SWE projects. Although it is optional,
-I have decided to take it on, and take a deep dive into the world
-of virtual machine. It's so cool.
-
-I was able to host a virtual machine on my computer with Vagrant. 
+when the 'uname command is run without any options,
+it prints just the kernel name.
