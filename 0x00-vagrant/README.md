@@ -1,3 +1,3 @@
-# uname command
+# `uname` command
 
-when it is called without options it prints the kernel name
+When it is called without options it prints the kernel name.
